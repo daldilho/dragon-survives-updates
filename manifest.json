@@ -1,1 +1,1 @@
-{"version":"0.3.1","apkUrl":"https://github.com/daldilho/dragon-survives-updates/releases/download/v0.3.1/DragonSurvives.apk","notes":"Correcao critica: a 0.3.0 tinha um bug em que o jogo instalava mas o icone nao aparecia em lugar nenhum (faltava a Activity principal no manifest)."}
+{"version":"0.3.2","apkUrl":"https://github.com/daldilho/dragon-survives-updates/releases/download/v0.3.2/DragonSurvives.apk","notes":"Ajuste de proporcao do personagem, icone de energia no botao Comecar, sopros de fogo/gelo saindo corretamente da boca do dragao."}
