@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/daldilho/dragon-survives-updates/releases/download/v0.3.3/DragonSurvives.apk","version":"0.3.3","notes":"Novo sistema de perfil (nickname + icone de dragao), sopro direcional corrigido (sai da boca, limitado a 45 graus), ajustes de proporcao e de icones."}
+{"apkUrl":"https://github.com/daldilho/dragon-survives-updates/releases/download/v0.3.4/DragonSurvives.apk","version":"0.3.4","notes":"Correcao critica: o botao Instalar do popup de atualizacao nao funcionava (bug de wiring corrigido)."}
