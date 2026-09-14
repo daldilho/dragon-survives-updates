@@ -1,1 +1,1 @@
-{"version":"0.10.0","apkUrl":"https://github.com/daldilho/dragon-survives-updates/releases/download/v0.10.0/DragonSurvives.apk","notes":"Correcao critica de sincronizacao de nickname/amigos"}
+{"version":"0.11.0","apkUrl":"https://github.com/daldilho/dragon-survives-updates/releases/download/v0.11.0/DragonSurvives.apk","notes":"Correcao definitiva de sincronizacao de nickname (escrita atomica via WriteBatch)"}
